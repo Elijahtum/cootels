@@ -1,0 +1,26 @@
+.font-size{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font-family{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.large-font{
+    font-size: 30px;
+}
+.btn-main{
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blue-color{
+    color:  #050A30;
+}
+.red-color{
+    color: #ff5733;
+}
+
+.cardWidth{
+    width: auto;
+}
